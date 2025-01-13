@@ -1,4 +1,4 @@
 ```javascript
-npm install @reduxjs/toolkit npm install react-redu npm install react-redux
+npm install @reduxjs/toolkit react-redux redux-persist
 ```
 
